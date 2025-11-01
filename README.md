@@ -1,5 +1,5 @@
 <h5 align="center">
-  <code><a href="www.linkedin.com/in/luigi-faganello" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/luigi-faganello" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
 </h5>
 <br>
 <p align="center">
