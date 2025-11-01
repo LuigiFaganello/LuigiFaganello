@@ -4,11 +4,15 @@
 <br>
 <p align="center">
 
-👨‍💻 Com formação em Análise e Desenvolvimento de Sistemas pela Universidade Nove de Julho e uma pós-graduação em Liderança, Inovação e Gestão 3.0 pela PUC.
+👨‍💻 Profissional de tecnologia com mais de 14 anos de experiência, atuando como Software Architect, com foco em soluções escaláveis, alta disponibilidade e qualidade. Minha trajetória inclui ter atuado como analista de infraestrutura, desenvolvedor backend e tech lead. 
 
-💡 Ao longo da minha carreira, tive o privilégio de atuar em diversas áreas da tecnologia, com destaque para meu papel como tech lead de uma equipe de desenvolvimento para um grande player do ramo de saúde. Nessa função, trabalho em estreita colaboração com o time de produto para compreender profundamente suas necessidades e entregar soluções funcionais e de alta qualidade e disponibilidade.
+👨‍💻Minha formação em Análise e Desenvolvimento de Sistemas e pós-graduação em Liderança, Inovação e Gestão 3.0 complementam minha experiência prática, permitindo-me atuar estrategicamente para impulsionar inovação e eficiência nos projetos em que estou envolvido.
 
-🌎 Além disso, minha participação em projetos internacionais (Argentina) proporcionou-me uma perspectiva global e a capacidade de prosperar em ambientes diversificados. Estou sempre em busca de desafios que me permitam crescer profissionalmente e contribuir de forma significativa para o sucesso da equipe e da organização.
+🌎 Tive a oportunidade de trabalhar em projetos internacionais e liderar equipes em grandes empresas do setor de logística e saúde, garantindo entregas de alto impacto.
+
+💡 Atualmente, estou sempre em busca de desafios que me permitam evoluir profissionalmente e contribuir para a transformação digital das organizações.
+
+🚀 Sempre aberto a novas conexões e oportunidades de aprendizado!
 
 📫 Como entrar em contato comigo: <a href="mailto: luigi_faganello@hotmail.com">luigi_faganello@hotmail.com</a>
 
